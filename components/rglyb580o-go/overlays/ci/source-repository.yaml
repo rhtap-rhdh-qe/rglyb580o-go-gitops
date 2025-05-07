@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: rglyb580o-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/rglyb580o-go
